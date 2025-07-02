@@ -1,1 +1,1 @@
-Trying to be better.
+PG Script Call of Duty Mobile made by @PhantomGameID / @PGTzReal
