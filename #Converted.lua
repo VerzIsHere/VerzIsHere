@@ -1,0 +1,11 @@
+[🛡] Encoded with PG LunarCrypt [🛡]
+
+What is PG LunarCrypt?, PG LunarCrypt is a online lua encode tools which can encrypt any type of lua script without errors!
+Super secure method for encrypting online script, especially if we need raw type of lua script. It doesn't matter if our raw link script got leak, they just can't do anything about this.
+Why they can't do anything?, it's because PG LunarCrypt was based on 'end-to-end' algorithms. So no one will never figure it out until they got the decode formula.
+
+[📌] Join Our Telegram [📌]
+➣ https://t.me/PGTzCh
+➣ https://t.me/PGGrupChat
+
+🇮🇩[SᏔ • 𝐏𝐆 • SHK] Not4Hoes-MUfkWgfbpi14WylvTkKCJEWdCbwpge1C81dnX4hhUzjWhjTzn+YWlU5Jmjso5QbH5P5W/DmF2Kr66bpJzqTtUCso/+C9axW5CXbBMCcmO2vJVttBSp80xCEkad6QUmkGN35ujHyEVlHdJXaVaQaoxYL/vadOfRJ584Ue61hzNYULmwY5GHoZZQd6X0PeSZ5zVae2GrVmsLwkqtbuAxee06fhXQzlxIxQz3LEb8GcaSArm5P1sBofQWwbWXcztsj8XxL8m/pB+3sWr3xpqTB+o098wXbNGR9ILEn2SC2BKvU76K6LNocK14wRRHvEP51GpgPexNnNyod+MB0AU+Maku6rtiy+ctLwRtidZffHz34tX3YmLYxGpxSTbiIB5EvG9e4XvS4IpzfcAKtDT9PYxFURtm0CHy3u+mTIbej3+H8WVplcI1Bt3RmtOt22Q6oJSiCB6v8egmo0MIv6si32LVPUHAVQZqa7n3244PvG4oZ8SLMibd8i9WM7NPgvuEIjBk7xe8z+e7jj+SZ+1Dfvwhf/aWrlb/OGfiP1f5U9iN6KWmZqpqqtK/Fga27G/cGRQFDev5DwixzVpAAIhEXXVwm1rDOkTyjEAwF0Gv0Mkh51Rduqjn3/gjd1YAFlRE3cJ3q1+ulAFnBFBpOJefUt0dIJjT4SGt63nzRPc0ohe66NT4r+pefzpsvOUDRkI/+4zftzE/Z1kywUksFrYzQj0BNpx4xRC7S8jwKrT1dxubEweoTMTgE0kWMLylLDLeYnTocCr9fP75nwqjuNa1sDeqjLzYjMjqC4TCP4xK556RKd6bSHrwYvWjY82gBWNuvfs3/P+PQh2YuyV8rIwkXAZ/waiIwpay1Ny/BwYJ/y1JXvddw2wbDwUiBIjr2/7ij5cOhz8lXV0iPUnBLNV3zER49PXXnvgVeM51PXF2ZVaS01bj7VYGz7SUVQv1/6+SwZUoojyWLaw7zuGGyRkM0c1mEY2o3TXyQ41W6nqUECQM5IK6ZcIhj5Ug4DjhNWjhry/lNkxlgO4GSmjaVJXkUurpLxo+a3wfcth/OucXf0Duj2I5N7YE3Mx/MxndrbOwgju3ePp2Zq9+5nNu1aWw4DSbPiaC/MhiHCN8nFLUV8lDaqdv72bhrEbEAFoWX1eLUKgvPLCPwNFGyMExIqqdIvkHUEFBzTjV8BZCF4ur9g33Y7PP4yuMOKFEaIcIVQcLOOTtbgXXvO/Q8cr9JxiJzQQpIr1YpBeFyov4AOfXIORiRdazH3lJAn3IuzQDr7dZdQOWHBcWhEgPicWN7GEogOqb+ChscCC2qUJhPqkyihRigo0yrRbL8uPWGNC5+K/SG9dxIMRHVGStp6SSm9II/lHc4wfPKZYOBq9gdTFIV4eBX8WvKV+4okAVhQLx5ZKru6VTj2B361K5f3Udha6CANNpZn3FrqO7pc4c0tNYSS1/RmuLJR1m9fY5yl90JEmcgZ/oOq/S6enONA3l7/1z/1R5pHzpf12maNDkN12xSXJ3QZ+4pYx3m4OXRXLowCxytmYK4=
