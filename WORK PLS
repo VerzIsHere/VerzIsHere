@@ -1,0 +1,11 @@
+[🛡] Encoded with PG LunarCrypt [🛡]
+
+What is PG LunarCrypt?, PG LunarCrypt is a online lua encode tools which can encrypt any type of lua script without errors!
+Super secure method for encrypting online script, especially if we need raw type of lua script. It doesn't matter if our raw link script got leak, they just can't do anything about this.
+Why they can't do anything?, it's because PG LunarCrypt was based on 'end-to-end' algorithms. So no one will never figure it out until they got the decode formula.
+
+[📌] Join Our Telegram [📌]
+➣ https://t.me/PGTzCh
+➣ https://t.me/PGGrupChat
+
+🇮🇩[SᏔ • 𝐏𝐆 • SHK] Not4Hoes-AbhQUamtgLVw9gRNVSf06oXrXmo3zW805a4gQlvNZdvypUBe633ZG8Vx2LkLPP0B7ob5AooR9q6YZf2vuFCkYubMnamkM5kRWaQ2XJ8lfyCv1xZLtRqREDojC4DowkcYp76xCJ1F2sCHSUQRRtyw7ePSdV/FaaCFRNpAbwq97mjGODxT3LvuqjA6l9UaKmem7aM4yRZ6EDZWvt1rH+caWdXRE2qJM3B2THzTd9OhTbfvSH6/bJP7HzYKt4GgMTWPKE6y75/XFyo5/Gn4l4JOQl7vsYfKbeiwXUI5I4khD6OvC21bwRhYrk3TJxNlLU8GPLkClROuOgdOVCcF6Z1Wnq4D0Q5WKZQNKDqG8CcQhi21No4N7dFLVleY0uvgRJhivr8pWLnNV5lxsIiIFbFf85h0PUHZ3o98OASyJJ0PfhgxclNKcdvtyutkXFyDXOxldo32gckv5olD+/IvXh9LBz8RLqKfIfd+3XKQX0lIOu39lS5NVmA45FLDvjPrgvgqvM2KhhYclG+ViI1WtW7bLRa2aNDk7fLzHQG16+6GFAbWEKQKAABrPtAPO0OmtFMLjx2WS52kodf2EBzBXWQ6quAJfhT0mxvUx3n9y0rJC/0iiTywMhK7x+LDkcCvO9lF/rnsRbS5j/Fb5lA0dmxkhHu8a2DDMTe5+PBb59zwm9/NAvT2g4hvinD/OwdLdu7PnljplLqjazT46n9uO0Rg2JIN3imjJ9Y0Jyf6LDm1IVEe7zYxJhbyce6ihsKBPgd+nM08VH5duaWdA+rhwrdgL90+KNSF+5wuDSlIdfBPF4PpPUHY62J7OBQztJ2IReDMqi0+NZB/meHRy3e3DcvTQiWJmO6PiTNSilZF4KkQSA37luUh63mT/F3UluvuoOnb5hHXXoI3Cu+y01Qng0IIGdljvbS3rW5QbEW7kgdpQ8jtOWeBm6Svvpk42dCRObHurqC7vBgJo0EOuOYWXFm9sxKfBLxB9dEsiNAjKlJixcLEXqdTsnP3YZEkJsCdutpHh//TYh3ieWNzEBkAYu+OtkgrNXyhdNmrfl+51/j6hCbxyX5vnMwmhVrx0PoXIpqWyZipowvu2B2+HtkByNh+1eMGgwOWu6OYTHah/59IBcAY17dTSvDl/FUiHlA+1j9sLLcPrIfAGRHAy7x0nXKjbR9M3jyVV4tkPOrTyg9+cdLBxD3h1oAYORvR2RXfo3I5GQqQojaGK8ECB1ghgKKdkq/vxf8HZ7Etxek8Y8B9vgMvSNcIlFr67zD5KpC3xw5i3EcG7qfn/qXw3Rp25SxO3XoH6QgeIRgcUFj8bGpliJ4z2K3y9wGabJyrn3uzIpKzv40d0naULuKWhzK/0RUrhXWA2DC28LwuVLqg+gknThj9MUV33e3mGqnOnBfuD8SfpyuAObuIIa8iqMUBoxBN3J+77cxdzh1p87kNcWT2PatYQ0QlIwkSsCCL0kpI8AnmfATYHPqcS17WVcQ4H0w2Ry1Ijw51S/GxBJIcKuWcj9T1QBLat1FQVdnX3mQDg5qdIee~
