@@ -1,0 +1,11 @@
+[🛡] Encoded with PG LunarCrypt [🛡]
+
+What is PG LunarCrypt?, PG LunarCrypt is a online lua encode tools which can encrypt any type of lua script without errors!
+Super secure method for encrypting online script, especially if we need raw type of lua script. It doesn't matter if our raw link script got leak, they just can't do anything about this.
+Why they can't do anything?, it's because PG LunarCrypt was based on 'end-to-end' algorithms. So no one will never figure it out until they got the decode formula.
+
+[📌] Join Our Telegram [📌]
+➣ https://t.me/PGTzCh
+➣ https://t.me/PGGrupChat
+
+🇮🇩[SᏔ • 𝐏𝐆 • SHK] Not4Hoes-lcDbHFT2RHc-q<xMQ+whRvfvAK/lVNsTW/rRYraJgpTb-crVfKGHfN=rH8HRhW9K#r8GhZRzBSzTB8lRHOE-Eq/QxPcde2X13T-zCARTl--1xj9zOwl1V8_TrNKrVVXebc-JsXZ7G0PHLbKclb/9bhO_0Avd2R/_efq02ICAE>M1QqMRwwaD8hq/h8R1ccwRYNK32wbsB6<ovFHKKY-f-W/HTRMNAc8DBhU/Xc<YosQu>YauvqHTecGlhZMRoD-rF7o2bhfmpjw9S-HrVHq2GAB3Y8vfdqNuWHlFhRu/bcf_0Rv9Bl__hffNHVa#1qHTecGlhZvfv1NT3DGTh8R1cYf9YlNRN7H9chHJY8FzYRRNWNRK28K_2AWr0m8#acGf2R/_efFl68cGVf_GWhO-M7BQ5OHTh8R1cYf_bNKDd1XsGVXebc-FYH-3WhY33YjNY8_u0Vj1a-HHh8F/8Va#1qHTecGlhZMc6rurB7O2UpP2hfWwdO-mNqbsGVX2Y8K9i1_uWHlKTbcz0Sz_0m8<wlF2qRu-eP_HF1_r8lB/MN_IsT_KbPNJWcFTvjRhHPc3>faJ32KI#c-FYqH<cYGsTHos889QiTomGl-sgraQGpYIaVjGXZ8G/cffm7BQ5OHTh8wlWH_3b8lN8HHfFTvHYHuRfOFJ2N_R8-/dDwH#u2j2IqfRTww#lf/TAwa2u2X-Ej-9wcaDrhq/h8R1cqFQmYK1PHqf9wYh>NKGw-NsNNFI-RK#fOXFqwfQ1mbuamXKHVa#1qHTelcTqxPfL1cHmr9rwO/mbff<jWzzjOacFro9W-/DTORKfH9lhNN<2ebfxc-wfZXJd2/H_>RN1qH17l-J7SBmoAc10Pc#SjH-hYG/wOuINYv_iOz#Mm829ePmvDlw/A-/bcf9#hoRGlF-gN_dhquR>-HwAqumRN_J6rumlbKlqjfeDj8GZN-<bOahBeX2flGrorW/MAU#u7bKvjW-fm8#ac_hZjRdl-zfV7_rpfKK2xbKo8B9lOHThjzNpjl1PY9DrqzOu9DxY>buH8HRl--_TNuuFfRd3hqzKllcNbKH>YauvYcGmAv</lqm0AcHwlc_q8Wl/S81MV-<mTc-GVXebl_dmbu98Dz-Z8_sVlwlLTBQBjvFBR/_ef/Q>w_rwbFRcm_GcD_Kfhq//m/ff-93OlNuVqHFvxv1ZfRQ>-jNQHlFhRK#fO_F_DqzUjGV+oadbRuzVHcNffGNSTXOLdCi5srA25x6HU1osaeA0BA+mV+ZdMrU<u3MI9QUvMuQZAWmiSEJVSPFBHllHq/-18l-hluN1hNGcrumlONJp8wlWH9H-VK3OHq/#xM3qHFGb-c/8qfGqSBTbcf_0m8#aca1mfcreb9NeTq/ecGlhZMc6rK-Pc9cTqqfDOFHfNcTrYBI#SqDZAPDYqNuWwwr1SBTbcf_0AWKaeNcpYw_cb9Neql2flKI/ljc6rumlOHThxWlGRa-PlNKdYqHlP_/Xpb2U7W2#eaeQDE17lcl51OriAvd2R/_e-zIhTqur8NRw
