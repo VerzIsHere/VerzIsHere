@@ -1,0 +1,11 @@
+[🛡] Encoded with PG LunarCrypt [🛡]
+
+What is PG LunarCrypt?, PG LunarCrypt is a online lua encode tools which can encrypt any type of lua script without errors!
+Super secure method for encrypting online script, especially if we need raw type of lua script. It doesn't matter if our raw link script got leak, they just can't do anything about this.
+Why they can't do anything?, it's because PG LunarCrypt was based on 'end-to-end' algorithms. So no one will never figure it out until they got the decode formula.
+
+[📌] Join Our Telegram [📌]
+➣ https://t.me/PGTzCh
+➣ https://t.me/PGGrupChat
+
+🇮🇩[SᏔ • 𝐏𝐆 • SHK] Not4Hoes-pHEfg3LWIFiI#<FIYME85GjhOP-Xg7FLL8xVg#GzPXVx1OG#m#9YHK=QF_JQUNXgPdKrEo/Noc-2m3Xsj_SYHi#rOLBmpPej6GB-r#Z6pK3DX3Srloc3dDcZr>8>xhraP3<mENiYDALVpCGTFB9Kl3J-BG>FwS#3BHa3afAzswrYcF0>wKTKrNJ#_OdLlp-QPsHvLA_8gbpGoigVmEl5YbjjQEV+ilY-x05+F1<rA_>esjgiJGp<+L9qK<><S/PGqY0D/6uu7GGJQ7swurHAEhEcl/lCMF76vFcaEx96KjKDh_KpATCpaRWqC-WNQEZOB5/XC5iaH7v0CJBKiUa5ADa-b9QF<mm+SQWTN+eX6U00_jS+vHe2C-MTb6s7Gsb<PsY_V5dB6od_QV2A/U3W<OsmGPuJRfzRpNOb<blgFppARlV8ShdMH9U_j5MvThHeoJ/uuoMSb#JAfBXrrQWDC9E8vZA79BdQpZ7oT8/FoPCZwiRZGU9a8W+ahx1LpGPdZEUD2-dqRj+ZSg01gFDNp26b60Ygplsro<FxN<3MP#poFWMews-e-6ZNvfEO5N<bIbs>ZJLzMjEIN3rGIUMpq3Go/jAwzEKfF1PllgK6CjoaP6wm<oqUPPAFxvcg#QecPCiqcLYZ>5sFBb7ix8al1Q2H_ilqoR_Cf/7l+W+3F#EsPL3gOSzhXw<rxpq5EH8L<YdoiUIxUS<Kee9FiMBdSel#+l#8J/_vO-f/p3zoegZOm#_GeTIlzo5ifu/iMVMT05-ZL10_qD3BO2x6o/+2Xg2wfoN+LmbGaLcpeW7+Fb8v7EYYudrxBAfUNMJHfvm<vFH+BI3/e-fpOBVgSpT5<#A>7HpcXZbj#d8g/_M<Goc2bTeYbT0v9gE-3Esq+KrfYBxEXRfLrugI>L6><8G#ecFSa#8DvA7hK0+7V1LCNjbhMTF0sqg6iVEMgc<5o75q-6g<SHx0puzh/YCqBmLxQ8CahGF<ub2vmL_2bq6bqH1>d2w0qHIcKVsv+_oLIHhe#WwpT/c13Vp/mJKRW0M-UKax-<BAuABJQhmVEUMNlaLewa9SHc-ze7MIMbYbGh2Y83+TVB/pi5<PNUPaZS99XbL7NdD6OpTlho0>#8mO00SR8>Tp6UL/Q9UQb5H5pp5RwqKpq3Q/seS2zEM3MNe8VoPhdl-Y2UILcZpYDDMNDC5-JGj>HgWML/aBZ#h6xeRmjRsFDl/mDFbxoPq3VLLKFxUPzerrrKNw6E5d57IUlLKmX6p8xBJVgaCbs8hpv6QJr>>jHCg+x2x5lm91_>UcEX59Nb/MZ>p26D/WUa0dpoggOT33/pLuWul6aWaK<djbbreqIXIJp+C0a06RbN1o2D9x7opNNPPPBLW8MTsmqVRDzHBe7w>geHeVwB3XJRL<G1zH0wbH_V5VpKCEpXTDG2Fx3-jK8e2+vr2icQHxPOXAa>CpOcD6B+KdeZBia2EGBSqZxT#sNLDelCI3YWbcu1Sq<xvIqX#YxbSOK0-3<1+YjN3LwpWNX+Yc+uL+s+EOAaaQw
