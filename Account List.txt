@@ -1,5 +1,12 @@
 return {
     {
+        username = "guest",
+        password = "guest123",
+        status = "Active",
+        statusReason = "guest",
+        ipWhitelist = {}
+    },
+    {
         username = "phantomgameid",
         password = "pw123",
         status = "Active",
