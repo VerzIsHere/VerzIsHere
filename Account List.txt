@@ -11,7 +11,8 @@ return {
         password = "pw123",
         status = "Active",
         statusReason = "Owner",
-        ipWhitelist = {"36.84.86.212"}
+        ipWhitelist = {"36.84.86.212"},
+        imei = "389127920700166"
     },
     {
         username = "test123",
