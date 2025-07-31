@@ -1,17 +1,10 @@
 return {
     {
-        username = "public",
-        password = "pub22",
-        status = "Active",
-        statusReason = "guest",
-        ipWhitelist = {}
-    },
-    {
         username = "phantomgameid",
         password = "pw123",
         status = "Active",
         statusReason = "Owner",
-        ipWhitelist = {"36.84.86.275"}
+        ipWhitelist = {"36.84.86.212"}
     },
     {
         username = "test123",
