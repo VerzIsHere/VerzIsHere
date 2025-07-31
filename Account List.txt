@@ -1,5 +1,12 @@
 return {
     {
+        username = "public",
+        password = "pub22",
+        status = "Active",
+        statusReason = "guest",
+        ipWhitelist = {}
+    },
+    {
         username = "phantomgameid",
         password = "pw123",
         status = "Active",
