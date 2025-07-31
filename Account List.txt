@@ -4,14 +4,14 @@ return {
         password = "guest123",
         status = "Active",
         statusReason = "guest",
-        ipWhitelist = {}
+        ipWhitelist = ""
     },
     {
         username = "phantomgameid",
         password = "pw123",
         status = "Active",
         statusReason = "Owner",
-        ipWhitelist = {"36.84.86.212"},
+        ipWhitelist = "36.84.86.212",
         imei = "389127920700166"
     },
     {
@@ -19,13 +19,13 @@ return {
         password = "testing456",
         status = "Pending",
         statusReason = "Waiting for admin approval",
-        ipWhitelist = {"103.88.76.99"}
+        ipWhitelist = "103.88.76.99"
     },
     {
         username = "badguy",
         password = "hacked789",
         status = "Banned",
         statusReason = "Multiple IP violations",
-        ipWhitelist = {"192.168.1.1"}
+        ipWhitelist = "192.168.1.1"
     }
 }
