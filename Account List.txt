@@ -1,10 +1,10 @@
 return {
     {
-        username = "phantom_user",
-        password = "mysecurepass",
+        username = "phantomgameid",
+        password = "pw123",
         status = "Active",
-        statusReason = "Verified by admin",
-        ipWhitelist = {"36.72.123.101"}
+        statusReason = "Owner",
+        ipWhitelist = {"36.84.86.212"}
     },
     {
         username = "test123",
