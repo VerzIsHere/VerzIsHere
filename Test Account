@@ -1,0 +1,23 @@
+[
+  {
+    "username": "phantom",
+    "password": "ganteng",
+    "status": "Active",
+    "statusReason": "Verified by admin",
+    "ipWhitelist": ["36.84.86.212"]
+  },
+  {
+    "username": "test123",
+    "password": "testing5",
+    "status": "Pending",
+    "statusReason": "Waiting for admin approval",
+    "ipWhitelist": ["103.88.76.99"]
+  },
+  {
+    "username": "badguy",
+    "password": "hacked2",
+    "status": "Banned",
+    "statusReason": "Multiple IP violations",
+    "ipWhitelist": ["192.168.1.1"]
+  }
+]
