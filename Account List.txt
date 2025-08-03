@@ -12,7 +12,8 @@ return {
         password = "pw123",
         status = "Active",
         statusReason = "Owner",
-        imei = "389127920700167"
+        imei = "389127920700166",
+        expiredAt = "2025-08-03"
     },
     {
         username = "test123",
