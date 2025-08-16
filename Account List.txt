@@ -18,15 +18,15 @@ return {
     {
         username = "test123",
         password = "testing456",
-        status = "Pending",
-        statusReason = "Waiting for admin approval",
+        status = "Active",
+        statusReason = "Access Granted",
         imei = "389127920700587"
     },
     {
-        username = "badguy",
-        password = "hacked789",
+        username = "groo",
+        password = "groo666",
         status = "Banned",
-        statusReason = "Multiple IP violations",
+        statusReason = "Decoding/Cracking the Panel",
         imei = "389127990700667"
     }
 }
